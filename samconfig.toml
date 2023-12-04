@@ -1,8 +1,8 @@
 version = 0.1
 [default.deploy.parameters]
-stack_name = "shauploader"
+stack_name = "shauploader2"
 resolve_s3 = true
-s3_prefix = "shauploader"
+s3_prefix = "shauploader2"
 region = "us-east-1"
 confirm_changeset = true
 capabilities = "CAPABILITY_IAM"
